@@ -21,7 +21,7 @@ with the help of our realtors, nexter will provide you - homes like-Cozy Country
 
 ---------
 
-#####   features
+#####   * features
 
 ---------
 
