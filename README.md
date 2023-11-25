@@ -16,7 +16,7 @@ with the help of our realtors, nexter will provide you - homes like-Cozy Country
 
 
 ### project-link
-[ https://aas70.github.io/Nexter-project/]( https://aas70.github.io/Nexter-project/)
+https://aas11111.github.io/Nexter-project/
 
 
 ----
